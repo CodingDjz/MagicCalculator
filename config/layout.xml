@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<!-- 区域A包含按钮 -->
+	<Area_num>
+		<one val="1"/>
+		<two val="2"/>
+		<three val="3"/>
+		<four val="4"/>
+		<five val="5"/>
+		<six val="6"/>
+		<seven val="7"/>
+		<eight val="8"/>
+		<nine val="9"/>	
+		<pound val="#"/>
+		<zero val="0"/>
+		<point val="."/>
+	</Area_num>
+	<Area_opt>
+		<clear val="c"/>
+		<delete val="d"/>	
+		<add val="+"/>
+		<sub val="-"/>
+		<mult val="x"/>
+		<divi val="÷"/>
+		<func val="f"/>
+		<equal val="="/>
+	</Area_opt>
+</Layout>
